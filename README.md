@@ -1,5 +1,11 @@
 # Uta no Prince-sama Repeat — English Fan Translation (PSP)
 
+<img width="4032" height="3024" alt="IMG_0281" src="https://github.com/user-attachments/assets/38c0d324-dae9-408b-949b-e4c9f637219a" />
+<img width="4032" height="3024" alt="IMG_0283" src="https://github.com/user-attachments/assets/6ba8aabe-dccd-4cad-afee-0046ba7a7f13" />
+<img width="4032" height="3024" alt="IMG_0282" src="https://github.com/user-attachments/assets/3c7b136e-fa8b-493e-b33d-25ae5c63e1fa" />
+
+
+
 An unofficial English translation patch for **Uta no☆Prince-sama♪ Repeat** (PSP, Broccoli, 2011, `NPJH50446`).
 
 This repository holds the translated script and the tools that rebuild the game with it. It does **not** contain the game or any copyrighted game data. You need your own copy of the Japanese ISO.

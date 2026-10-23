@@ -1,4 +1,4 @@
-# Uta no Prince-sama Repeat — English Fan Translation (PSP)
+# Uta no Prince-sama Repeat — English AI Translation (PSP)
 
 <img width="4032" height="3024" alt="IMG_0281" src="https://github.com/user-attachments/assets/38c0d324-dae9-408b-949b-e4c9f637219a" />
 <img width="4032" height="3024" alt="IMG_0283" src="https://github.com/user-attachments/assets/6ba8aabe-dccd-4cad-afee-0046ba7a7f13" />
